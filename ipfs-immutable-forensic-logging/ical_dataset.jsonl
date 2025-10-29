@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-25T18:57:24Z",
+  "src_ip": "67.100.119.121",
+  "dst_ip": "61.218.50.121",
+  "src_port": 55733,
+  "dst_port": 897,
+  "protocol": "ICMP",
+  "event_type": "DDoS SYN Flood",
+  "severity": 8,
+  "country_src": "Australia",
+  "country_dst": "Australia",
+  "sha256_hash": "221da3544f4154624f406fa2b63a2411b728b6b56b7f04be054d737ae1d1d903",
+  "ipfs_cid": "Qm221da3544f4154624f406fa2b63a2411b728b6b56b7f04be054d"
+}
